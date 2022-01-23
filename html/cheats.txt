@@ -1,0 +1,19 @@
+1  git add
+2  git commin
+3  cd /c/git/learning/
+4  git status
+5  git add
+6  git add html/index.html
+7  git commit -m "index.html formatting"
+8  git status
+9  git add  html/table_example.html
+10  git status
+11  git commit
+12  git status
+13  git log
+14  git cheackout e14
+15  git checkout e14
+16  git reset e14
+17  git log
+18  git push
+19  history
